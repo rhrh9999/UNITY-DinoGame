@@ -31,21 +31,25 @@
 
 
 ### 맵 구성
-- 캐릭터
+- **캐릭터**
   <br/>
   <img src=readmeImages/dino.png>
-- 몬스터
+- **몬스터**
   <br/>
-  <img src=readmeImages/enemy.png>
-  - 몬스터를 만나면 100점을 잃는다.
-- 코인
+  <img src=readmeImages/enemy.png><br/>
+   몬스터를 만나면 100점을 잃는다.
+- **코인**
   <br/>
-  <img src=readmeImages/coin.png>
-  - 코인 먹으면 100점을 얻는다.
-- 도착지점
+  <img src=readmeImages/coin.png><br/>
+   코인을 먹으면 100점을 얻는다.
+- **도착지점**
   <br/>
-  <img src=readmeImages/arrive.png>
-  - 도착지점에 도착하 게임엔딩씬으로 바뀐다. 
+  <img src=readmeImages/arrive.png><br/>
+   도착지점에 도착하면 게임엔딩씬으로 바뀐다.
+- **점수와 시간**
+  <br/>
+  <img src=readmeImages/score.png><br/>
+  게임시작부터 도착지점까지 걸린 시간과 캐릭터가 얻은 점수를 나타낸다. 
   <hr/>
   *모든 assets들은 unity asset store와 무료에셋스토어를 이용하였습니다. 
 
