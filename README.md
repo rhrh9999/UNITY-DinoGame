@@ -14,7 +14,7 @@
 ## **게임 설명**
 
 
-|시작화면|게임화면|종료화면|
+|<img src=readmeImages/start.png>|<img src=readmeImages/game.png>|<img src=readmeImages/clear.png>|
 |---|---|---|
 |시작화면|게임화면|종료화면|
 
