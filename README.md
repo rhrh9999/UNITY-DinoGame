@@ -50,5 +50,5 @@
   <img src=readmeImages/score.png><br/>
   게임시작부터 도착지점까지 걸린 시간과 캐릭터가 얻은 점수를 나타낸다. 
   <hr/>
-  *모든 assets들은 unity asset store와 무료에셋스토어를 이용하였습니다. 
+  *모든 assets은 unity asset store와 무료에셋스토어를 이용하였습니다. 
 
